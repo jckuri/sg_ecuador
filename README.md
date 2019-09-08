@@ -1,5 +1,5 @@
 # \#sg_ecuador
-Study Group Ecuador
+**Study Group Ecuador \#sg_ecuador** is a Slack channel in the **Secure & Private AI Challenge** to connect people from Ecuador, a small country from Latin America.
 
 ## Study-Group Weekly Reports:
 
@@ -41,4 +41,4 @@ Study Group Ecuador
 **Week from August 26 to August 31:**
 - @Juan Carlos Kuri Pinto and @dfdavila posted their activities in the #60daysofudacity challenge.
 - @Juan Carlos Kuri Pinto posted some interesting links in the group.
-- The Secure & Private AI Challenge ended in August 30.
+- The **Secure & Private AI Challenge** ended in August 30.
