@@ -4,10 +4,11 @@ Study Group Ecuador
 ## Study-Group Weekly Reports:
 
 **Week from July 5 to July 7:**
-- In July 5, 2019, our Study Group #sg_ecuador was created.
+- In July 5, 2019, our Study Group #sg_ecuador was created. Our initial members were @Juan Carlos Kuri Pinto, @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, and @Santiago Frias.
 - Members posted their activities in the #60daysofudacity challenge.
 
 **Week from July 8 to July 14:**
+- @dfdavila joined our study group.
 - @Juan Carlos Kuri Pinto had a conversation with @dfdavila about neuroscience.
 - @Juan Carlos Kuri Pinto and @dfdavila posted their activities in the #60daysofudacity challenge.
 - @Juan Carlos Kuri Pinto posted some interesting links in the group.
@@ -17,6 +18,7 @@ Study Group Ecuador
 - @Juan Carlos Kuri Pinto posted some interesting links in the group.
 
 **Week from July 22 to July 28:**
+- @Daniela Cardona, and @risper bevalyn joined our study group.
 - @Juan Carlos Kuri Pinto and @dfdavila posted their activities in the #60daysofudacity challenge.
 - @Juan Carlos Kuri Pinto posted some interesting links in the group.
 
